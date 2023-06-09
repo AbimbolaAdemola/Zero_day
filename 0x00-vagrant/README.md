@@ -1,1 +1,1 @@
-my best food
+my best friend
