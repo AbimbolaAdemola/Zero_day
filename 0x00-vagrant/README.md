@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+my best food
